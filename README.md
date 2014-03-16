@@ -3,6 +3,8 @@ Cynteka Pivot Table jQuery plugin
 
 This is a jQuery plugin that can be used on a website for data analysis, smart navigation, data input... 
 
+To get started, checkout examples and documentation at http://ukman.github.com
+
 Bug tracker
 -----------
 
