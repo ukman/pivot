@@ -1,8 +1,12 @@
 {
 	"name" : "cynteka-pivot-table",
-	"version" : "cynteka-pivot-v0.9.0",
+	"version" : "0.9.0",
 	"title" : "Cynteka Pivot Table",
-	"author" : "Sergey Grigorchuk",
+	"author" : 		{
+			"name" : "Sergey Grigorchuk",
+			"email" : "sergey.grigorchuk@gmail.com",
+			"url" : "http://www.linkedin.com/in/sgrigorchuk"
+		},
 	"licenses" : [
 		{
 			"type" : "MIT License",
@@ -16,7 +20,7 @@
     },
     
     "description" : "This is a jQuery plugin that can be used on a website for data analysis, smart navigation, data input...",
-	"keywords" : ["pivot", "pivot table", "table", "analysis", "olap"],
+	"keywords" : ["pivot", "pivottable", "table", "analysis", "olap"],
 	"homepage" : "http://ukman.github.io/",
 	"docs" : "http://ukman.github.io#documentation",
 	"demo" : "http://ukman.github.io/example-simple.html",
