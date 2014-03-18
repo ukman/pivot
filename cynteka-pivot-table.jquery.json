@@ -20,7 +20,7 @@
     },
     
     "description" : "This is a jQuery plugin that can be used on a website for data analysis, smart navigation, data input...",
-	"keywords" : ["pivot", "pivottable", "table", "analysis", "olap"],
+	"keywords" : ["pivot", "pivottable", "table", "analysis", "olap", "ui", "jquery", "grid", "hierarchy"],
 	"homepage" : "http://ukman.github.io/",
 	"docs" : "http://ukman.github.io#documentation",
 	"demo" : "http://ukman.github.io/example-simple.html",
